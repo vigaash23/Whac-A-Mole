@@ -9,7 +9,7 @@
   
   
                 height:100%;
-                width:95%;
+                width:96%;
                 overflow:hidden;
             }
             
